@@ -1,0 +1,36 @@
+Uri: http://fileserver.6te.net/
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\index.htm
+Content Type: text/html
+
+Uri: http://fileserver.6te.net/home.html
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\home.html
+Content Type: text/html
+
+Uri: http://fileserver.6te.net/Morse Code.html
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\Morse Code.html
+Content Type: text/html
+
+Uri: http://fileserver.6te.net/Public ket.html
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\Public ket.html
+Content Type: text/html
+
+Uri: http://fileserver.6te.net/Scyatle.html
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\Scyatle.html
+Content Type: text/html
+
+Uri: http://www.secretcodebreaker.com/pigpenc.gif
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\pigpenc.gif
+Content Type: image/gif
+
+Uri: https://images.squarespace-cdn.com/content/v1/5d9dcffa039cc269c2ef1d58/1600025743000-G3I5OTJWX14OCR20QZCZ/Ring-sizing-at-home-cut-the-paper-gif-SLABjewellery.gif?format=500w
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\content\v1\5d9dcffa039cc269c2ef1d58\1600025743000-G3I5OTJWX14OCR20QZCZ\Ring-sizing-at-home-cut-the-paper-gif-SLABjewellery.gif
+Content Type: image/gif
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/5/51/Skytale.png
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\wikipedia\commons\5\51\Skytale.png
+Content Type: image/png
+
+Uri: https://www.freewebhostingarea.com/images/poweredby.png
+File Name: C:\Downloaded Web Sites\fileserver.6te.net\images\poweredby.png
+Content Type: image/png
+
